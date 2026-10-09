@@ -1,5 +1,5 @@
 # data
-These are datasets used for my online courses: 
+These are datasets used for my online courses and books: 
 
 1. Master Python Programming Essentials
 2. Practical Jupyter Notebook from Beginner to Expert
@@ -9,5 +9,7 @@ These are datasets used for my online courses:
 ...
 
 The course web are:
-
 https://academy.deepsim.ca/
+
+Book web:
+https://press.deepsim.ca/
